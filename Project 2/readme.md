@@ -75,5 +75,5 @@ The **Random Forest Classifier** was selected as the final model because it achi
 Although the tuned Random Forest achieved a marginally higher ROC-AUC score, the default Random Forest produced better Precision and F1-Score, making it the preferred model for fraud detection.
 
 ## 👨‍💻 Author
-**Ashish Kumar Sen**
+**Ashish Kumar Sen**  
 Data Science Intern at Decode Labs
